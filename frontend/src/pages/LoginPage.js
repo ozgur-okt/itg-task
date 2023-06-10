@@ -41,7 +41,7 @@ const LoginPage = () => {
                         />
                         <label htmlFor="password" className="form-label"> Password </label>
                         <input
-                            type="text"
+                            type="password"
                             className="form-control"
                             placeholder="Password"
                             value={password}
