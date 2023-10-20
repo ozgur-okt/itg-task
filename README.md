@@ -1,4 +1,4 @@
-# itg-task
+# Ecommerce Product Management
 
 https://github.com/ozgur-okt/itg-task/assets/73358116/6930db38-512c-4642-be79-60baefeaae26
 
